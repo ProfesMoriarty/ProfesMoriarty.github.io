@@ -58,9 +58,8 @@ sshpass -p "$pass" /usr/bin/scp ${*}
 ## 0x04 具体操作
 
 1. 首先需要在目标机器上安装 `sshpass`工具，可以使用 `yum/apt-get`等包管理工具安装也可以下载源码编译安装。
-
- 	2. 修改目标机器 alias , 比如 `alias ssh=/root/.scp`。可以在.bashrc文件中添加实现持久化抓取。
- 	3. 将脚本放到指定的位置。
+2. 修改目标机器 alias , 比如 alias ssh=/root/.scp。可以在.bashrc文件中添加实现持久化抓取。
+3. 将脚本放到指定的位置。
 
 ​	
 
