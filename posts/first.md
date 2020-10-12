@@ -16,6 +16,12 @@ layout: default
 
 ## 0x02 ToDo
 
+### 渗透工具/技巧
+
+- [ ] Cobalt Strike -- Malleable C2 Proile 
+- [x] Linux抓取SSH/SCP密码
+- [ ] AccessKey利用
+
 ### 恶意软件开发
 
 - [x] 静态免杀
