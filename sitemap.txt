@@ -1,8 +1,7 @@
-https://profesmoriarty.github.io/index.html
-
-https://profesmoriarty.github.io/posts/first.html
-
+https://profesmoriarty.github.io/post/Accesskey.html
+https://profesmoriarty.github.io/
 https://profesmoriarty.github.io/posts/MalleableC2Profile.html
-
+https://profesmoriarty.github.io/posts/bypass.html
+https://profesmoriarty.github.io/posts/CSHidenTips.html
+https://profesmoriarty.github.io/posts/first.html
 https://profesmoriarty.github.io/posts/LinuxSSHPassword.html
-
