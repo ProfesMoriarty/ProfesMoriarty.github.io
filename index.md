@@ -4,6 +4,7 @@ layout: default
 
 # POST
 
+- [Cobalt Strike -- 反溯源技巧](./posts/CSHidenTips.html)
 - [AccessKey利用](./post/Accesskey.html)
 - [Linux抓取SSH/SCP密码](./posts/LinuxSSHPassword.html)
 - [Cobalt Strike -- Malleable C2 Proile](./posts/MalleableC2Profile.html)

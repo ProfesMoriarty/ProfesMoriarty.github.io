@@ -18,7 +18,8 @@ layout: default
 
 ### 渗透工具/技巧
 
-- [ ] Cobalt Strike -- Malleable C2 Proile 
+- [x] Cobalt Strike -- Malleable C2 Proile 
+- [ ] Cobalt Strike -- 反溯源技巧
 - [x] Linux抓取SSH/SCP密码
 - [ ] AccessKey利用
 
